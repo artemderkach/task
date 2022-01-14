@@ -13,7 +13,7 @@ Giving that task if fairly simple, project structure will be minimal.
 `$ go run main.go --help` - to call for help  
 
 ## using service
-Send request to retrieve random joke with random name `GET /`
+Send request to retrieve random joke with random name `GET /`  
 `GET /ping` - to test if service is running.
 
 ## testing
